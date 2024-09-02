@@ -31,7 +31,7 @@ export default function Home() {
         offer—explore more below!
       </SectionTitle>
 
-      <Video videoId={null} />
+      <Video videoId={"null"} />
       <SectionTitle
         preTitle="Testimonials"
         title="Here's what our customers said"
